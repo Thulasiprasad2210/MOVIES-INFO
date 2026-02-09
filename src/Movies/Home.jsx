@@ -14,17 +14,19 @@ const Home = () => {
       </div>
       <div className='latest'>
         <h2>Latest Updates</h2>
-        <marquee behavior="scroll" direction="left">
+        <div className="scroll-holder">
+        <div className="scroll-content">
          <img src='https://resizing.flixster.com/qZ1TbrcS76N2GnFka6GgzDLeE-Y=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzdiN2RhY2VlLTMwN2UtNGY2Yi1iN2EzLTQ4ODc0YmViMDg3ZS5qcGc=' alt=''/>
-         <img src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHuY484VNuH6DQea0DwgHsAYgZCbR0a-jxmLbciys8zoHjd1JJZut8oRSdcQE0lQnAyckwew&s=10' alt=''/>
-         <img src='https://upload.wikimedia.org/wikipedia/en/3/38/F1_%282025_film%29.png' alt=''/>
+         <img src='https://upload.wikimedia.org/wikipedia/en/thumb/2/20/Varanasi_%282027_film%29_poster.jpg/250px-Varanasi_%282027_film%29_poster.jpg' alt=''/>
+         <img src='https://cdn.district.in/movies-assets/images/cinema/Ramayana_Gallery-7c8e7960-5808-11f0-b03a-f9f12779d145.jpg' alt=''/>
          <img src='https://upload.wikimedia.org/wikipedia/en/thumb/d/dc/Jailer_2_poster.jpg/250px-Jailer_2_poster.jpg' alt=''/>
-         <img src='https://assets-in.bmscdn.com/discovery-catalog/events/et00457060-xhzhxgxzeh-landscape.jpg' alt=''/>
+         <img src='https://media-cache.cinematerial.com/p/500x/izztqmcb/toxic-indian-movie-poster.jpg?v=1736319113' alt=''/>
          <img src='https://i.ytimg.com/vi/R9VhmEn1UAs/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLAXMj0bVyVt6QaZe24Y-HrHgP7MAg' alt=''/>
          <img src='https://m.media-amazon.com/images/M/MV5BYzRmNjdiOWQtODY0MC00NTE4LWE2MjEtNjVkNDJkNjYwOTI1XkEyXkFqcGc@._V1_.jpg' alt=''/>
-         <img src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3Y_qswxB6YaAgvN_luolTGKH1j6T4yTTsVQ&s' alt=''/>
+         <img src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPBmk5s4XSxoHG5ds5HxbfgTs5ZdI-m-Lk9SJfZdF_ZLRI3yZuQH8bXGEcMf4IAb4eobcKK-xXQW5J4xh0Is3cK4yiB70E70fcP5RJPxQ&s=10' alt=''/>
          <img src='https://m.media-amazon.com/images/M/MV5BODJkYzMxNGUtNmU4OS00NTFmLTg0NWMtMDM0YTI0YmU4MGQzXkEyXkFqcGc@._V1_.jpg' alt=''/>
-        </marquee>
+        </div>
+      </div>
       </div>
 
       <div className='head1'>
