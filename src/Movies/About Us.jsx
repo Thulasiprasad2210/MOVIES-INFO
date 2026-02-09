@@ -6,7 +6,7 @@ const AboutUs = () => {
      <div className='about'>
       <p>About Us</p>
       <h1>MOVIE INFO.</h1>
-      <p>Our movie info website is a one-stop destination for film lovers to explore everything about their favorite movies. It provides detailed information including cast and crew, genres, ratings, release dates, and trailers in a clean and easy-to-use layout. From timeless classics to the latest releases, the platform is designed to help users discover, learn, and enjoy the world of cinema effortlessly. 🎬</p>
+      <p>Our Movie Info website is a one-stop destination for film lovers to explore everything about their favorite movies. It provides detailed information including cast and crew, genres, ratings, release dates, and trailers in a clean and easy-to-use layout. From timeless classics to the latest releases, the platform is designed to help users discover, learn, and enjoy the world of cinema effortlessly. 🎬</p>
      </div> 
       <div className='team2'>
       <p>The Team</p>
